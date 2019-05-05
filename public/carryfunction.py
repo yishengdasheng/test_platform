@@ -63,7 +63,7 @@ class Carryfunction(Expandfunction):
                 string = re.sub(regex, str(result), string)
             except Exception as e:
                 # 如果里面有变量的时候，阻塞住
-                print("执行自定义函数错误：", e)
+                # print("执行自定义函数错误：", e)
                 pass
         return string
 carryfunction=Carryfunction()

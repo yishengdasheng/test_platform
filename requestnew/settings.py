@@ -101,7 +101,7 @@ DATABASES = {
         'PORT' : '3306',
         'NAME':'test',
         'USER':'root',
-        'PASSWORD': '000000',
+        'PASSWORD': 'Ene!@#2019',
         'OPTIONS': {
             'init_command':"SET sql_mode='STRICT_TRANS_TABLES'"
         }
