@@ -66,7 +66,7 @@ ROOT_URLCONF = 'requestnew.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates'),os.path.join(BASE_DIR, 'task')]
+        'DIRS': [os.path.join(BASE_DIR, 'templates'),os.path.join(BASE_DIR, 'task'),os.path.join(BASE_DIR,'debug')]
         ,
         'APP_DIRS': True,
         'OPTIONS': {
@@ -103,7 +103,8 @@ DATABASES = {
         'USER':'root',
         'PASSWORD': 'Ene!@#2019',
         'OPTIONS': {
-            'init_command':"SET sql_mode='STRICT_TRANS_TABLES'"
+            'init_command':"SET sql_mode='STRICT_TRANS_TABLES'",
+            'sql_mode': 'traditional'
         }
 
     }
