@@ -323,7 +323,7 @@ class Template_mixin(object):
                                 <span class='tooltipped' data-position='top' style="font-weight: bold;font-size:15px;color:#F7464A"><span
                                         class='strong'>%(fail_count)s</span> 个用例 failed</span>
                             </div>
-                            <div class='block text-small' style="font-weight: bold;font-size:15px;color:#ff6347">
+                            <div class='block text-small' style="font-weight: bold;font-size:15px;color: 	#FFD700">
                             <span class='strong tooltipped' data-position='top'
                             >%(error_count)s</span>
                                 个用例 errored
