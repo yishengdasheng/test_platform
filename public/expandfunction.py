@@ -78,7 +78,8 @@ class Expandfunction:
         return day
 
     # sha256加密
-    def jm_sha256( value):
+    @staticmethod
+    def jm_sha256(value):
         '''
             sha256加密
               return:加密结果转成16进制字符串形式
