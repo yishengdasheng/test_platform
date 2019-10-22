@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f198f29-acf0-4c80-ba33-87463998389b" name="Default" comment="修改错误用例的颜色">
+    <list default="true" id="9f198f29-acf0-4c80-ba33-87463998389b" name="Default" comment="更新包">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/expandfunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/expandfunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/run.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,69 +43,68 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requestnew/start.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/main/project.html">
+        <entry file="file://$PROJECT_DIR$/public/expandfunction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="781">
-              <caret line="210" column="33" lean-forward="true" selection-start-line="210" selection-start-column="33" selection-end-line="210" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/request/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="536" column="14" selection-start-line="536" selection-start-column="14" selection-end-line="536" selection-end-column="14" />
+            <state relative-caret-position="1806">
+              <caret line="87" column="19" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="23" />
               <folding>
-                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#45#65#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/echarts-2.2.7/index.html">
+        <entry file="file://E:/Python/Python37/Lib/unittest/loader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4536" />
+            <state relative-caret-position="483">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+            </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/ExtentHTMLTestRunner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="331" column="26" lean-forward="true" selection-start-line="330" selection-start-column="30" selection-end-line="331" selection-end-column="26" />
+            <state relative-caret-position="466">
+              <caret line="153" column="18" lean-forward="true" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/request/models.py">
+        <entry file="file://E:/Python/Python37/Lib/hashlib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="56" column="13" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="13" />
+            <state relative-caret-position="168">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/request/admin.py">
+        <entry file="file://$PROJECT_DIR$/public/carryfunction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="357">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -121,8 +122,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>case</find>
-      <find>get</find>
       <find>Step.objects.get</find>
       <find>test_steps</find>
       <find>pd</find>
@@ -151,6 +150,8 @@
       <find>#F7464A</find>
       <find>F7464A</find>
       <find>项目</find>
+      <find>extent.css</find>
+      <find>extent</find>
     </findStrings>
     <replaceStrings>
       <replace>email</replace>
@@ -168,7 +169,6 @@
         <option value="$PROJECT_DIR$/public/system.py" />
         <option value="$PROJECT_DIR$/task/third_task---8f955d24-26f3-11e9-b9a4-4cedfb3d07c3/testcase/UserLogin.py" />
         <option value="$PROJECT_DIR$/public/carryfunction.py" />
-        <option value="$PROJECT_DIR$/public/expandfunction.py" />
         <option value="$PROJECT_DIR$/task/third_task---fb9dc548-626b-11e9-b82f-4cedfb3d07c3/testcase/SelectPersonNameIdCode.py" />
         <option value="$PROJECT_DIR$/templates/main/functionhelp.html" />
         <option value="$PROJECT_DIR$/static/frame/layui/layui.js" />
@@ -193,7 +193,6 @@
         <option value="$PROJECT_DIR$/task/first_task---b894eb70-a3a9-11e9-81f7-4cedfb3d07c3/testcase/redirect.py" />
         <option value="$PROJECT_DIR$/public/sqldb.py" />
         <option value="$PROJECT_DIR$/public/make_testcase.py" />
-        <option value="$PROJECT_DIR$/public/run.py" />
         <option value="$PROJECT_DIR$/public/script_function.py" />
         <option value="$PROJECT_DIR$/request/models.py" />
         <option value="$PROJECT_DIR$/public/job.py" />
@@ -213,6 +212,8 @@
         <option value="$PROJECT_DIR$/start.sh" />
         <option value="$PROJECT_DIR$/shutdown.sh" />
         <option value="$PROJECT_DIR$/public/ExtentHTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/public/expandfunction.py" />
+        <option value="$PROJECT_DIR$/public/run.py" />
       </list>
     </option>
   </component>
@@ -239,22 +240,21 @@
             <path>
               <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="publicExpansion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
               <item name="request" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="requestnew" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
@@ -266,10 +266,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="px&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/pj/IAT/server" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Tencent Files/345944432/FileRecv/case.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Documents/Tencent Files/345944432/FileRecv/case.py" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -431,11 +432,11 @@
     </configuration>
     <list>
       <item itemvalue="Django server.requestnew" />
-      <item itemvalue="Python.script_function" />
-      <item itemvalue="Python.expandfunction" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.emailBody" />
       <item itemvalue="Python.emailBody (1)" />
+      <item itemvalue="Python.emailBody" />
+      <item itemvalue="Python.expandfunction" />
+      <item itemvalue="Python.script_function" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
@@ -458,7 +459,11 @@
       <option name="presentableId" value="Default" />
       <updated>1521446802794</updated>
       <workItem from="1563435608158" duration="1286000" />
-      <workItem from="1563503063447" duration="6763000" />
+      <workItem from="1563503063447" duration="7820000" />
+      <workItem from="1564453559333" duration="25000" />
+      <workItem from="1564475482750" duration="4054000" />
+      <workItem from="1571298836373" duration="1770000" />
+      <workItem from="1571737832551" duration="1181000" />
     </task>
     <task id="LOCAL-00001" summary="2.2.4&#10;1.新增requirements文件&#10;2.支持单用例调试和查看报告&#10;3.任务表修改，将任务名和uuid拆开&#10;4.环境配置里新增https选择&#10;5.邮件能够在里面描述下本次测试是哪个环境，哪些接口，执行情况等概要信息&#10;6.接口页面如果某个值显示超过25个字段，显示25个字段+...,hover可见&#10;7.去除用例页面优先级筛选和删除列表用例文件字段&#10;8.用例页面新增生效中sql和nosql数，点击带参数跳转sql和nosql列表页">
       <created>1563436215573</created>
@@ -481,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563785163365</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新包">
+      <created>1563876030537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563876030537</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -517,12 +529,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8049000" />
+    <option name="totallyTimeSpent" value="16136000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27452025" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28731343" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -579,7 +592,8 @@
     <MESSAGE value="2.2.4&#10;1.新增requirements文件&#10;2.支持单用例调试和查看报告&#10;3.任务表修改，将任务名和uuid拆开&#10;4.环境配置里新增https选择&#10;5.邮件能够在里面描述下本次测试是哪个环境，哪些接口，执行情况等概要信息&#10;6.接口页面如果某个值显示超过25个字段，显示25个字段+...,hover可见&#10;7.去除用例页面优先级筛选和删除列表用例文件字段&#10;8.用例页面新增生效中sql和nosql数，点击带参数跳转sql和nosql列表页" />
     <MESSAGE value="修改启动文件" />
     <MESSAGE value="修改错误用例的颜色" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改错误用例的颜色" />
+    <MESSAGE value="更新包" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新包" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -593,18 +607,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/task/first_task---f378e268-a32d-11e9-9c26-4cedfb3d07c3/testcase/guoguo.py" />
-    <entry file="file://$PROJECT_DIR$/task/first_task---0a02ba8a-a3a9-11e9-b3cd-4cedfb3d07c3/testcase/redirect.py" />
-    <entry file="file://$PROJECT_DIR$/task/first_task---b894eb70-a3a9-11e9-81f7-4cedfb3d07c3/testcase/redirect.py" />
-    <entry file="file://$PROJECT_DIR$/task/template">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="22" column="74" selection-start-line="22" selection-start-column="74" selection-end-line="22" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/task/third_task---6a2bdf42-a3ac-11e9-8ad3-4cedfb3d07c3/report/report19-07-1115-22-05.html" />
-    <entry file="file://D:/python/Lib/site-packages/django/db/models/manager.py" />
     <entry file="file://$PROJECT_DIR$/task/first_task---3077a458-a3ac-11e9-bfb2-4cedfb3d07c3/testcase/redirect.py" />
     <entry file="file://$PROJECT_DIR$/task/third_task---6a2bdf42-a3ac-11e9-8ad3-4cedfb3d07c3/testcase/guoguo.py" />
     <entry file="file://$PROJECT_DIR$/task/third_task---ad8ed966-a3bc-11e9-a330-4cedfb3d07c3/testcase/guoguo.py" />
@@ -644,16 +646,6 @@
     <entry file="file://$PROJECT_DIR$/task/first_task---882b5ee8-a3c4-11e9-9c27-4cedfb3d07c3/report/Successlog19-07-1118-14-12.text" />
     <entry file="file://$PROJECT_DIR$/task/first_task---882b5ee8-a3c4-11e9-9c27-4cedfb3d07c3/report/Errorlog19-07-1118-14-12.text" />
     <entry file="file://D:/python/Lib/threading.py" />
-    <entry file="file://$PROJECT_DIR$/public/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <element signature="e#42#69#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/sqldb.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -693,13 +685,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.py" />
-    <entry file="file://$PROJECT_DIR$/requestnew/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/main/case.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8799">
@@ -777,10 +762,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/request/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requestnew/start.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/main/project.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="781">
-          <caret line="210" column="33" lean-forward="true" selection-start-line="210" selection-start-column="33" selection-end-line="210" selection-end-column="33" />
+          <caret line="210" column="33" selection-start-line="210" selection-start-column="33" selection-end-line="210" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -799,13 +801,6 @@
         <state relative-caret-position="-4536" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/ExtentHTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="331" column="26" lean-forward="true" selection-start-line="330" selection-start-column="30" selection-end-line="331" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/request/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
@@ -813,20 +808,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/request/admin.py">
+    <entry file="file://$PROJECT_DIR$/requestnew/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="1302">
+          <caret line="95" column="11" lean-forward="true" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/expandfunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1806">
+          <caret line="87" column="19" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="23" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#45#65#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requestnew/start.sh">
+    <entry file="file://E:/Python/Python37/Lib/hashlib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="168">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/carryfunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Python37/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/main/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/ExtentHTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="153" column="18" lean-forward="true" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>

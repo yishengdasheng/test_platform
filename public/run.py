@@ -11,7 +11,8 @@ from public.spider import  Spider
 from request.models import *
 from django.db.models import Min,Avg,Max,Sum
 from public.email import SendEmail
-from public.ExtentHTMLTestRunner import HTMLTestRunner
+#from public.ExtentHTMLTestRunner import HTMLTestRunner
+from public.HTMLTestRunner import HTMLTestRunner
 from publicExpansion.emailBody import makeEamilBody
 
 #将文件的全局变量通过类属性传递给脚本文件

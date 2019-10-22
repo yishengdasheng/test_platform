@@ -84,7 +84,7 @@ class Expandfunction:
             sha256加密
               return:加密结果转成16进制字符串形式
         '''
-        
+
         hsobj = hashlib.sha256()
         hsobj.update(value.encode("utf-8"))
         return hsobj.hexdigest()
@@ -108,6 +108,8 @@ if __name__ == '__main__':
     print(last)
     k = e.gettodaytime()
     print(k)
+
+
 
 
 
