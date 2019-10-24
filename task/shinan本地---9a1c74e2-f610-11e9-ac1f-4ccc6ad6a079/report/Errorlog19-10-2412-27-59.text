@@ -1,0 +1,14 @@
+[time:2019-10-24 12:28:53,782 - file:log.py] - ERROR : 查询建筑名称及id
+[time:2019-10-24 12:28:53,782 - file:log.py] - ERROR : http://python-shinan-demo.enesource.cn/demo/get_buildings/
+[time:2019-10-24 12:28:53,782 - file:log.py] - ERROR : get
+[time:2019-10-24 12:28:53,782 - file:log.py] - ERROR : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 12:28:53,782 - file:log.py] - ERROR : {}
+[time:2019-10-24 12:28:53,783 - file:log.py] - ERROR : 用例测试断言错误
+[time:2019-10-24 12:28:53,783 - file:log.py] - ERROR : ['data'][0]['name']真实值:上海中国福利会,方式:等于,预期值:武康大楼
+[time:2019-10-24 12:30:16,455 - file:log.py] - ERROR : 查询单个房间的能耗数据
+[time:2019-10-24 12:30:16,455 - file:log.py] - ERROR : http://python-shinan-demo.enesource.cn/demo/get_monthly_power_data_by_room
+[time:2019-10-24 12:30:16,455 - file:log.py] - ERROR : get
+[time:2019-10-24 12:30:16,455 - file:log.py] - ERROR : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 12:30:16,455 - file:log.py] - ERROR : {'room_id': '0121048853'}
+[time:2019-10-24 12:30:16,455 - file:log.py] - ERROR : 用例测试断言错误
+[time:2019-10-24 12:30:16,455 - file:log.py] - ERROR : ['code']真实值:0,方式:等于,预期值:1

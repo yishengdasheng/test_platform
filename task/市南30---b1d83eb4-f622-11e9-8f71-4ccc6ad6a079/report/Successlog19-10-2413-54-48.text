@@ -1,0 +1,96 @@
+[time:2019-10-24 13:55:01,183 - file:log.py] - INFO : 查询整体用电量告警等信息
+[time:2019-10-24 13:55:01,184 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_area_info
+[time:2019-10-24 13:55:01,184 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:01,184 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:01,184 - file:log.py] - INFO : {}
+[time:2019-10-24 13:55:01,184 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:02,440 - file:log.py] - INFO : 查询建筑用电量_不存在的建筑id
+[time:2019-10-24 13:55:02,440 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_building_ele_info
+[time:2019-10-24 13:55:02,441 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:02,441 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:02,441 - file:log.py] - INFO : {'building_id': '0'}
+[time:2019-10-24 13:55:02,441 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:11,062 - file:log.py] - INFO : 查询建筑用电量_武康大楼
+[time:2019-10-24 13:55:11,062 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_building_ele_info
+[time:2019-10-24 13:55:11,062 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:11,062 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:11,062 - file:log.py] - INFO : {'building_id': '1'}
+[time:2019-10-24 13:55:11,062 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:24,509 - file:log.py] - INFO : 查询建筑用电量_馨逸公寓
+[time:2019-10-24 13:55:24,509 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_building_ele_info
+[time:2019-10-24 13:55:24,509 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:24,509 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:24,509 - file:log.py] - INFO : {'building_id': '3'}
+[time:2019-10-24 13:55:24,509 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:24,792 - file:log.py] - INFO : 查询不存在的建筑内房间数量及在线房间数据
+[time:2019-10-24 13:55:24,792 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_building_info
+[time:2019-10-24 13:55:24,792 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:24,792 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:24,792 - file:log.py] - INFO : {'building_id': '0'}
+[time:2019-10-24 13:55:24,792 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:25,300 - file:log.py] - INFO : 查询建筑内房间数量及在线房间数据_id不是数字
+[time:2019-10-24 13:55:25,300 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_building_info
+[time:2019-10-24 13:55:25,300 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:25,300 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:25,300 - file:log.py] - INFO : {'building_id': 's'}
+[time:2019-10-24 13:55:25,300 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:25,623 - file:log.py] - INFO : 查询建筑内房间数量及在线房间数据_武康大楼
+[time:2019-10-24 13:55:25,623 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_building_info
+[time:2019-10-24 13:55:25,623 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:25,623 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:25,623 - file:log.py] - INFO : {'building_id': '1'}
+[time:2019-10-24 13:55:25,623 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:26,227 - file:log.py] - INFO : 查询建筑内房间数量及在线房间数据_馨逸公寓
+[time:2019-10-24 13:55:26,228 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_building_info
+[time:2019-10-24 13:55:26,228 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:26,228 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:26,229 - file:log.py] - INFO : {'building_id': '3'}
+[time:2019-10-24 13:55:26,229 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:37,400 - file:log.py] - INFO : 按日查询建筑大楼的用电趋势
+[time:2019-10-24 13:55:37,400 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_daily_statics_power_data_by_building
+[time:2019-10-24 13:55:37,400 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:37,400 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:37,400 - file:log.py] - INFO : {'building_id': '1', 'date': '2019', 'type': 'day'}
+[time:2019-10-24 13:55:37,400 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:45,351 - file:log.py] - INFO : 按月查询建筑大楼的用电趋势
+[time:2019-10-24 13:55:45,351 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_daily_statics_power_data_by_building
+[time:2019-10-24 13:55:45,351 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:45,351 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:45,351 - file:log.py] - INFO : {'building_id': '1', 'date': '2019', 'type': 'month'}
+[time:2019-10-24 13:55:45,351 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:45,550 - file:log.py] - INFO : 按月查询建筑大楼的用电趋势_date输入非法
+[time:2019-10-24 13:55:45,550 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_daily_statics_power_data_by_building
+[time:2019-10-24 13:55:45,550 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:45,550 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:45,550 - file:log.py] - INFO : {'building_id': '1', 'date': 's#%', 'type': 'month'}
+[time:2019-10-24 13:55:45,550 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:45,744 - file:log.py] - INFO : 按月查询建筑大楼的用电趋势_不传date
+[time:2019-10-24 13:55:45,744 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_daily_statics_power_data_by_building
+[time:2019-10-24 13:55:45,745 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:45,745 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:45,745 - file:log.py] - INFO : {'building_id': '1', 'type': 'month'}
+[time:2019-10-24 13:55:45,745 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:56,908 - file:log.py] - INFO : 按月查询建筑大楼的用电趋势_不传type
+[time:2019-10-24 13:55:56,909 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_daily_statics_power_data_by_building
+[time:2019-10-24 13:55:56,909 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:56,909 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:56,909 - file:log.py] - INFO : {'building_id': '1', 'date': '2019'}
+[time:2019-10-24 13:55:56,909 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:58,163 - file:log.py] - INFO : 按月查询建筑大楼的用电趋势_不传大楼id
+[time:2019-10-24 13:55:58,163 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_daily_statics_power_data_by_building
+[time:2019-10-24 13:55:58,164 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:58,164 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:58,164 - file:log.py] - INFO : {'date': '2019', 'type': 'month'}
+[time:2019-10-24 13:55:58,164 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:55:58,854 - file:log.py] - INFO : 按月查询建筑大楼的用电趋势_大楼id不存在
+[time:2019-10-24 13:55:58,854 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_daily_statics_power_data_by_building
+[time:2019-10-24 13:55:58,854 - file:log.py] - INFO : get
+[time:2019-10-24 13:55:58,854 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:55:58,854 - file:log.py] - INFO : {'building_id': '0', 'date': '2019', 'type': 'month'}
+[time:2019-10-24 13:55:58,854 - file:log.py] - INFO : 用例通过
+[time:2019-10-24 13:56:40,392 - file:log.py] - INFO : 区域概览页面查询最近30天用电数据
+[time:2019-10-24 13:56:40,393 - file:log.py] - INFO : http://python-shinan-demo.enesource.cn/demo/get_last_30day_ele_area
+[time:2019-10-24 13:56:40,393 - file:log.py] - INFO : get
+[time:2019-10-24 13:56:40,393 - file:log.py] - INFO : {'Content-Type': 'application/json;charset=UTF-8'}
+[time:2019-10-24 13:56:40,393 - file:log.py] - INFO : {}
+[time:2019-10-24 13:56:40,393 - file:log.py] - INFO : 用例通过
