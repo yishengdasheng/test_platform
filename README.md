@@ -8,6 +8,8 @@
 >使用者操作记录：
 http://note.youdao.com/noteshare?id=06f2a9c75079a4e317d9f8bed25429fb&sub=6BA79F3EEE854AF2BAEE45902B2D0FCB  
 ## ChangeLog
+>### 2.2.6  
+>1.报告css和js失效，将引入文件本地化
 >### 2.2.5  
 >1.模块页面下一页按钮缺失  
 >2.接口、用例、任务名全部支持中文，并加上正则限制        

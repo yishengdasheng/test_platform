@@ -3,8 +3,794 @@
   <component name="ChangeListManager">
     <list default="true" id="9f198f29-acf0-4c80-ba33-87463998389b" name="Default" comment="更新包">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/expandfunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/expandfunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/ExtentHTMLTestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/ExtentHTMLTestRunner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/HTMLTestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/HTMLTestRunner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/carryfunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/carryfunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/email.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/job.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/job.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/make_testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/make_testcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/mongodb.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/mongodb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/redis.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/redis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/request.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/script_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/script_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sqldb.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/sqldb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/suit.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/suit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/system.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/system.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/request/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/request/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/request/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/request/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/request/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/request/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/request/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requestnew/shutdown.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requestnew/start.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requestnew/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestnew/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requestnew/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/requestnew/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/build.bat" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/build.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/css/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/css/page-min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/page-min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/css/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/css/prettify.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/css/prettify.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/bui-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/bui-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/bui.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/bui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/common/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/common/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/common/main-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/common/main-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/common/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/common/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/common/page-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/common/page-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/common/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/common/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/common/search-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/common/search-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/common/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/common/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/config-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/config-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/extensions/treegrid-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/extensions/treegrid-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/extensions/treepicker-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/extensions/treepicker-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/jquery-1.8.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/jquery-1.8.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/module/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/module/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/prettify.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/prettify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/slider-min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/slider-min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/INSTALL" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/INSTALL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/KEYS" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/KEYS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/NOTICE" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/NOTICE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/README" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/WHATSNEW" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/WHATSNEW" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/ant" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/ant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/ant.bat" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/ant.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/ant.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/ant.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/antRun" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/antRun" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/antRun.bat" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/antRun.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/antRun.pl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/antRun.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/antenv.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/antenv.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/complete-ant-cmd.pl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/complete-ant-cmd.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/envset.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/envset.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/lcp.bat" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/lcp.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/runant.pl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/runant.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/runant.py" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/runant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/bin/runrc.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/bin/runrc.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/changelog.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/changelog.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/checkstyle/checkstyle-frames.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/checkstyle/checkstyle-frames.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/checkstyle/checkstyle-text.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/checkstyle/checkstyle-text.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/checkstyle/checkstyle-xdoc.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/checkstyle/checkstyle-xdoc.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/coverage-frames.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/coverage-frames.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/jdepend-frames.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/jdepend-frames.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/jdepend.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/jdepend.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/junit-frames-xalan1.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/junit-frames-xalan1.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/junit-frames.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/junit-frames.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/junit-noframes.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/junit-noframes.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/log.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/log.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/maudit-frames.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/maudit-frames.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/mmetrics-frames.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/mmetrics-frames.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/etc/tagdiff.xsl" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/etc/tagdiff.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/fetch.xml" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/fetch.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/get-m2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/get-m2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/README" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-antlr.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-antlr.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-bcel.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-bcel.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-bsf.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-bsf.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-log4j.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-log4j.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-oro.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-oro.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-regexp.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-regexp.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-resolver.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-resolver.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-xalan2.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-apache-xalan2.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-commons-logging.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-commons-logging.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-commons-net.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-commons-net.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-jai.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-jai.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-javamail.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-javamail.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-jdepend.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-jdepend.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-jmf.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-jmf.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-jsch.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-jsch.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-junit.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-junit.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-junit4.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-junit4.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-launcher.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-launcher.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-netrexx.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-netrexx.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-nodeps.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-nodeps.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-parent.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-parent.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-swing.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-swing.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-testutil.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant-testutil.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant.pom" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/ant.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/tools/ant/lib/libraries.properties" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/tools/ant/lib/libraries.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/bootstrap/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/bootstrap/js/npm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/H-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/H-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/form-elements.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/form-elements.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/.jshintignore" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/.jshintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/.jshintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/bower.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/dist/chart/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/dist/chart/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/dist/chart/wordCloud.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/dist/chart/wordCloud.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/dist/echarts-all.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/dist/echarts-all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/dist/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/dist/echarts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/echarts-optimize-conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/echarts-optimize-conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/chord.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/chord.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/eventRiver.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/eventRiver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/force.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/force.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/funnel.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/funnel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/gauge.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/gauge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/heatmap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/heatmap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/k.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/k.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/line.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/line.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/pie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/radar.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/radar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/scatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/scatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/treemap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/treemap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/venn.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/venn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/wordCloud.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/chart/wordCloud.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/echarts-all.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/echarts-all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/build/source/echarts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/about-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/about-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/bootstrap-responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/bootstrap-responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/bootstrap-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/bootstrap-theme.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/carousel.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/codemirror.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/codemirror.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/echartsHome.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/echartsHome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/flexslider.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/flexslider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/monokai.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/css/monokai.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/application.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/application.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-affix.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-affix.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-alert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-button.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-collapse.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-collapse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-popover.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-popover.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-scrollspy.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-scrollspy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-tab.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-tab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-tooltip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-transition.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-transition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-typeahead.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap-typeahead.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/codemirror.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/codemirror.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/dataDancing.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/dataDancing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsDoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsDoc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsExample.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsExample.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsHome.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsHome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsTheme.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsTheme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsThemeDesigner.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/echartsThemeDesigner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/esl/css.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/esl/css.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/esl/esl.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/esl/esl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/esl/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/esl/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/google-code-prettify.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/google-code-prettify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/html5shiv.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/html5shiv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/jquery.flexslider.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/jquery.flexslider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/asset/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/changelog-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/changelog-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/changelog.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/changelog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/doc-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/doc-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/axis.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/axis.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar10.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar11.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar12.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar13.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar14.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar15.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar5.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar6.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar7.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar8.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar9.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/bar9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/chord.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/chord.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/chord1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/chord1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/chord2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/chord2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/chord3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/chord3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/chord4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/chord4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/data/webkit-dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/data/webkit-dep.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataRange.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataRange.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataRange1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataRange1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataRange2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataRange2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataZoom.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataZoom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataZoom1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataZoom1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataZoom2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dataZoom2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/demo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dynamicLineBar.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dynamicLineBar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dynamicPieRadar.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dynamicPieRadar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dynamicScatterK.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/dynamicScatterK.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/event.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/event.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/eventRiver1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/eventRiver1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/eventRiver2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/eventRiver2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/eventRiver2_data.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/eventRiver2_data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/force.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/force.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/force1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/force1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/force2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/force2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/force3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/force3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/force4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/force4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/funnel.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/funnel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/funnel1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/funnel1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/funnel2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/funnel2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/funnel3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/funnel3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/funnel4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/funnel4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge5.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/gauge5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/geoJson/HK_geo.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/geoJson/HK_geo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/geoJson/UK_geo.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/geoJson/UK_geo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/geoJson/USA_geo.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/geoJson/USA_geo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/geoJson/china-main-city/china-main-city-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/geoJson/china-main-city/china-main-city-map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/heatmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/heatmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/heatmap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/heatmap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/heatmap_map.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/heatmap_map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/k.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/k.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/k1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/k1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/lasagna.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/lasagna.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/legend.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/legend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line10.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line11.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line5.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line6.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line7.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line8.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line9.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/line9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/loading.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/loading.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map10.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map11.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map12.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map13.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map14.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map15.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map16.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map17.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map18.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map18.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map19.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map20.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map20.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map21.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map21.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map22.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map22.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map5.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map6.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map7.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map8.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map9.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/map9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/middle-east-pre.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/middle-east-pre.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix10.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix11.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix12.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix5.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix6.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix7.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix8.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix9.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/mix9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie5.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie6.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie7.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/pie7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/radar.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/radar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/radar1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/radar1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/radar2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/radar2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/radar3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/radar3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter5.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter6.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/scatter6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/svg/baidu-building.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/svg/baidu-building.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/svg/body-female.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/svg/body-female.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/svg/body-male.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/svg/body-male.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/svg/football.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/svg/football.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/blue.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/blue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/dark.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/dark.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/gray.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/gray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/green.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/green.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/helianthus.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/helianthus.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/infographic.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/infographic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/macarons.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/macarons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/macarons2.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/macarons2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/mint.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/mint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/red.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/red.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/roma.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/roma.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/sakura.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/sakura.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/shine.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/theme/shine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/themeDesigner.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/themeDesigner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/timelineOption.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/timelineOption.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/toolbox.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/toolbox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tooltip.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tooltip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/data-a-china.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/data-a-china.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/data-china.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/data-china.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/data-formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/data-formatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/djws.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/djws.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/option0.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/option0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/option1.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/option1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/option2.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/option2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/option3.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/10-me-china/js/option3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/24-population-china/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/24-population-china/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/24-population-china/js/data-people.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/24-population-china/js/data-people.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/china_city_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/china_city_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/option0.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/option0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/option1.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/option1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/option2.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/option2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/option3.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/topic/aqi-china/js/option3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree4.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree5.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/tree5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/treemap.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/treemap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/treemap1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/treemap1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/treemap2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/treemap2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/treemap3.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/treemap3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/venn.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/venn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/venn1.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/venn1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/webkit-dep-pre.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/webkit-dep-pre.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/webkit-dep.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/webkit-dep.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/webkit-dep2.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/webkit-dep2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/wordCloud.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/wordCloud.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/wormhole.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/wormhole.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www/js/chart/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www/js/chart/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www/js/chart/wordCloud.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www/js/chart/wordCloud.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www/js/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www/js/echarts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www2/js/echarts-all.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/example/www2/js/echarts-all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/feature-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/feature-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/feature.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/feature.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/echarts-slide.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/echarts-slide.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/print/paper.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/print/paper.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/print/pdf.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/print/pdf.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/reveal.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/reveal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/reveal.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/reveal.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/beige.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/beige.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/default.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/default.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/moon.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/moon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/night.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/night.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/serif.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/serif.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/simple.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/simple.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/sky.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/sky.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/solarized.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/solarized.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/beige.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/beige.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/default.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/moon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/moon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/night.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/night.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/serif.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/serif.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/simple.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/simple.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/sky.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/sky.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/solarized.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/source/solarized.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/template/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/template/mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/template/settings.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/template/settings.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/template/theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/theme/template/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/why-echarts-m.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/css/why-echarts-m.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/eventRiver.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/eventRiver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/k.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/k.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/line.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/line.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/scatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/chart/scatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/echarts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/util/mapData/geoJson/china_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/util/mapData/geoJson/china_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/util/mapData/geoJson/world_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/dist/util/mapData/geoJson/world_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/reveal.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/reveal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/reveal.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/reveal.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/timelineOption.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/timelineOption.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/why-echarts-m-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/why-echarts-m-en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/why-echarts-m.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/why-echarts-m.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/whyEcharts-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/whyEcharts-en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/whyEcharts.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/js/whyEcharts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/css/zenburn.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/css/zenburn.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/font/league_gothic-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/font/league_gothic-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/font/league_gothic_license" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/font/league_gothic_license" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/js/classList.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/js/classList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/js/head.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/js/head.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/js/html5shiv.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/lib/js/html5shiv.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/highlight/highlight.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/highlight/highlight.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/markdown/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/markdown/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/markdown/example.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/markdown/example.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/markdown/markdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/markdown/markdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/markdown/marked.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/markdown/marked.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/multiplex/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/multiplex/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/multiplex/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/multiplex/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/multiplex/master.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/multiplex/master.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/notes-server/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/notes-server/client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/notes-server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/notes-server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/notes-server/notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/notes-server/notes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/notes/notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/notes/notes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/notes/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/notes/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/postmessage/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/postmessage/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/postmessage/postmessage.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/postmessage/postmessage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/print-pdf/print-pdf.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/print-pdf/print-pdf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/remotes/remotes.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/remotes/remotes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/search/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/search/search.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/zoom-js/zoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/plugin/zoom-js/zoom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/whyEcharts-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/whyEcharts-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/whyEcharts-m-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/whyEcharts-m-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/whyEcharts-m.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/whyEcharts-m.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/whyEcharts.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/slide/whyEcharts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/start-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/start-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/doc/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/doc/start.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/doc/BMap.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/doc/BMap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/doc/BMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/doc/BMap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/doc/doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/doc/doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/doc/example.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/doc/example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/doc/example.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/doc/example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/extension/BMap/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/extension/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/extension/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/index-en.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/index-en.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/chord.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/chord.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/eventRiver.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/eventRiver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/force.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/force.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/funnel.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/funnel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/gauge.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/gauge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/heatmap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/heatmap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/island.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/island.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/k.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/k.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/line.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/line.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/pie.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/pie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/radar.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/radar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/scatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/scatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/treemap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/treemap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/venn.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/venn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/wordCloud.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/chart/wordCloud.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/axis.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/axis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/base.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/categoryAxis.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/categoryAxis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/dataRange.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/dataRange.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/dataView.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/dataView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/dataZoom.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/dataZoom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/grid.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/grid.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/legend.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/legend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/polar.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/polar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/roamController.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/roamController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/timeline.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/timeline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/title.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/title.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/toolbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/toolbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/tooltip.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/tooltip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/valueAxis.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/component/valueAxis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/data/Graph.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/data/Graph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/data/KDTree.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/data/KDTree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/data/Tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/data/Tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/data/quickSelect.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/data/quickSelect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/echarts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/layer/heatmap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/layer/heatmap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/Chord.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/Chord.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/EdgeBundling.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/EdgeBundling.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/Force.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/Force.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/Tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/Tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/TreeMap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/TreeMap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/WordCloud.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/WordCloud.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/WordCloudRectZero.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/WordCloudRectZero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/eventRiver.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/eventRiver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/forceLayoutWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/layout/forceLayoutWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/theme/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/theme/default.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/theme/infographic.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/theme/infographic.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/theme/macarons.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/theme/macarons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/accMath.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/accMath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/coordinates.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/coordinates.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/date.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/date.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/ecAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/ecAnimation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/ecData.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/ecData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/ecEffect.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/ecEffect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/ecQuery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/ecQuery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/kwargs.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/kwargs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoCoord.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoCoord.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/an_hui_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/an_hui_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/ao_men_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/ao_men_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/bei_jing_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/bei_jing_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/china_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/china_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/chong_qing_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/chong_qing_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/fu_jian_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/fu_jian_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/gan_su_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/gan_su_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/guang_dong_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/guang_dong_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/guang_xi_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/guang_xi_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/gui_zhou_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/gui_zhou_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/hai_nan_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/hai_nan_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/he_bei_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/he_bei_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/he_nan_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/he_nan_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/hei_long_jiang_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/hei_long_jiang_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/hu_bei_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/hu_bei_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/hu_nan_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/hu_nan_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/ji_lin_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/ji_lin_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/jiang_su_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/jiang_su_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/jiang_xi_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/jiang_xi_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/liao_ning_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/liao_ning_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/nei_meng_gu_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/nei_meng_gu_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/ning_xia_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/ning_xia_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/qing_hai_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/qing_hai_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/shan_dong_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/shan_dong_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/shan_xi_1_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/shan_xi_1_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/shan_xi_2_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/shan_xi_2_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/shang_hai_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/shang_hai_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/si_chuan_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/si_chuan_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/tai_wan_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/tai_wan_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/tian_jin_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/tian_jin_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/world_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/world_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/xi_zang_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/xi_zang_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/xiang_gang_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/xiang_gang_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/xin_jiang_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/xin_jiang_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/yun_nan_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/yun_nan_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/zhe_jiang_geo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/geoJson/zhe_jiang_geo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/params.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/params.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/rawData/encode.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/rawData/encode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/rawData/geoJson/china_city.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/rawData/geoJson/china_city.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/rawData/geoJson/world_geo.json" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/rawData/geoJson/world_geo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/textFixed.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/mapData/textFixed.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/ndarray.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/ndarray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/number.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/projection/albers.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/projection/albers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/projection/mercator.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/projection/mercator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/projection/normal.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/projection/normal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/projection/svg.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/projection/svg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Candle.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Candle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Chain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Cross.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Cross.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/GaugePointer.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/GaugePointer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/HalfSmoothPolygon.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/HalfSmoothPolygon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/HandlePolygon.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/HandlePolygon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Icon.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Icon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/MarkLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/MarkLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Ribbon.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Ribbon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Symbol.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/Symbol.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/normalIsCover.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/shape/normalIsCover.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/smartLogSteps.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/smartLogSteps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/smartSteps.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/src/util/smartSteps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/test/allchart/all.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/test/allchart/all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/test/allchart/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/test/allchart/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/test/heatmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/test/heatmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/test/kdtree.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/test/kdtree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/test/performance/option.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/test/performance/option.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/test/performance/p.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/test/performance/p.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/echarts-2.2.7/test/performance/p.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/echarts-2.2.7/test/performance/p.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/animated.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/animated.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/bordered-pulled.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/bordered-pulled.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/core.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/core.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/fixed-width.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/fixed-width.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/font-awesome.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/font-awesome.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/icons.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/icons.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/larger.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/larger.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/list.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/list.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/mixins.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/path.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/path.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/rotated-flipped.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/rotated-flipped.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/stacked.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/stacked.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/less/variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_animated.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_animated.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_core.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_core.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_fixed-width.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_fixed-width.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_larger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_larger.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_path.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_path.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_stacked.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_stacked.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/font-awesome/scss/font-awesome.scss" beforeDir="false" afterPath="$PROJECT_DIR$/static/font-awesome/scss/font-awesome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/echarts/echarts.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/echarts/echarts.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/css/layui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/css/layui.mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/css/layui.mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/css/modules/code.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/css/modules/code.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/css/modules/laydate/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/css/modules/layer/default/layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/font/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/flow.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/flow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/laydate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/layedit.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/layedit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/layer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/laypage.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/laypage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/laytpl.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/lay/modules/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/lay/modules/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/css/layui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/css/layui.mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/css/layui.mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/css/modules/code.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/css/modules/code.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/css/modules/laydate/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/css/modules/layer/default/layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/font/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/flow.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/flow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/laydate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/layedit.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/layedit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/layer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/laypage.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/laypage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/laytpl.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/lay/modules/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/layui.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/layui.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/layui/layui/layui.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/layui/layui/layui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/static/js/vip_comm.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/static/js/vip_comm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/static/js/vip_nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/static/js/vip_nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/static/js/vip_tab.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/static/js/vip_tab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/frame/static/js/vip_table.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/frame/static/js/vip_table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap-select.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap-select.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/caret.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/caret.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/echarts.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/echarts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/echarts.simple.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/echarts.simple.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery-1.11.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery-1.11.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery-1.11.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.backstretch.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.backstretch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.backstretch.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.backstretch.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery_button.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jquery_button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jsonparse.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jsonparse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jsonparse2.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/jsonparse2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/pageDeal.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/pageDeal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/placeholder.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/placeholder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/font-awesome/css/font-awesome.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/css/layui.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/css/layui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/css/layui.mobile.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/css/layui.mobile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/css/modules/code.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/css/modules/code.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/css/modules/laydate/default/laydate.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/css/modules/layer/default/layer.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/font/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/carousel.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/carousel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/element.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/element.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/flow.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/flow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/laydate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/layedit.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/layedit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/layer.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/layer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/laypage.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/laypage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/laytpl.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/mobile.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/mobile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/table.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/tree.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/tree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/lay/modules/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/lay/modules/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/layui.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/layui.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/layui/layui.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/layui/layui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/css/component.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/css/component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/css/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/css/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/fonts/codropsicons/codropsicons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/fonts/codropsicons/codropsicons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/fonts/codropsicons/license.txt" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/fonts/codropsicons/license.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/js/EasePack.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/js/EasePack.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/js/TweenLite.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/js/TweenLite.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/js/demo-1.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/js/demo-1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/js/demo-2.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/js/demo-2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/js/demo-3.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/js/demo-3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/js/demo-4.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/js/demo-4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/js/html5.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/js/html5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/plugins/sideshow/js/rAF.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/plugins/sideshow/js/rAF.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/first_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/first_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/Nosql.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/Nosql.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/NosqlDb.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/NosqlDb.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/case.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/case.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/companydatabase.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/companydatabase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/database.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/database.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/email.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/email.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/env.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/env.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/formatJson.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/formatJson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/functionhelp.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/functionhelp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/modules.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/modules.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/project.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/sql.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/sql.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/step.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/step.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/main/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uwsgi.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/version" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +832,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/expandfunction.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1806">
+            <state relative-caret-position="831">
               <caret line="87" column="19" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="23" />
               <folding>
                 <element signature="e#45#65#0" expanded="true" />
@@ -55,56 +841,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/Python/Python37/Lib/unittest/loader.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/ExtentHTMLTestRunner.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="153" column="18" lean-forward="true" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://E:/Python/Python37/Lib/hashlib.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/run.py">
+        <entry file="file://$PROJECT_DIR$/requestnew/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/carryfunction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+            <state relative-caret-position="602">
+              <caret line="95" column="11" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -250,7 +991,7 @@
             <path>
               <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="request" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
@@ -266,11 +1007,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SearchEverywhereHistoryKey" value="px&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Tencent Files/345944432/FileRecv/case.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../requestnew-master1023/requestnew-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$USER_HOME$/Documents/Tencent Files/345944432/FileRecv/case.py" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../requestnew-master1023/requestnew-master" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -463,7 +1205,9 @@
       <workItem from="1564453559333" duration="25000" />
       <workItem from="1564475482750" duration="4054000" />
       <workItem from="1571298836373" duration="1770000" />
-      <workItem from="1571737832551" duration="1181000" />
+      <workItem from="1571737832551" duration="1819000" />
+      <workItem from="1571812220411" duration="1985000" />
+      <workItem from="1571832484181" duration="2792000" />
     </task>
     <task id="LOCAL-00001" summary="2.2.4&#10;1.新增requirements文件&#10;2.支持单用例调试和查看报告&#10;3.任务表修改，将任务名和uuid拆开&#10;4.环境配置里新增https选择&#10;5.邮件能够在里面描述下本次测试是哪个环境，哪些接口，执行情况等概要信息&#10;6.接口页面如果某个值显示超过25个字段，显示25个字段+...,hover可见&#10;7.去除用例页面优先级筛选和删除列表用例文件字段&#10;8.用例页面新增生效中sql和nosql数，点击带参数跳转sql和nosql列表页">
       <created>1563436215573</created>
@@ -493,7 +1237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1563876030537</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="更新包">
+      <created>1571739142896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571739142896</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -529,13 +1280,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16136000" />
+    <option name="totallyTimeSpent" value="21551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28731343" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29371002" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -703,13 +1453,6 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/version">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/main/sql.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5313">
@@ -808,19 +1551,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requestnew/settings.py">
+    <entry file="file://$PROJECT_DIR$/templates/main/report.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1302">
-          <caret line="95" column="11" lean-forward="true" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
+        <state relative-caret-position="399">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/expandfunction.py">
+    <entry file="file://E:/Python/Python37/Lib/unittest/loader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1806">
-          <caret line="87" column="19" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="23" />
+        <state relative-caret-position="483">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/ExtentHTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3087">
+          <caret line="153" column="18" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/carryfunction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
           <folding>
-            <element signature="e#45#65#0" expanded="true" />
+            <element signature="e#42#69#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -832,45 +1603,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/carryfunction.py">
+    <entry file="file://$PROJECT_DIR$/public/expandfunction.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        <state relative-caret-position="831">
+          <caret line="87" column="19" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="23" />
+          <folding>
+            <element signature="e#45#65#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://E:/Python/Python37/Lib/unittest/loader.py">
+    <entry file="file://$PROJECT_DIR$/version">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="378">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/main/report.html">
+    <entry file="file://$PROJECT_DIR$/requestnew/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/ExtentHTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="153" column="18" lean-forward="true" selection-start-line="153" selection-start-column="18" selection-end-line="153" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        <state relative-caret-position="602">
+          <caret line="95" column="11" selection-start-line="95" selection-start-column="11" selection-end-line="95" selection-end-column="11" />
         </state>
       </provider>
     </entry>
