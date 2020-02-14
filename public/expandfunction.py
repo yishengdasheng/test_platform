@@ -72,10 +72,19 @@ class Expandfunction:
         tomorrow  = day + 1
         return tomorrow
 
+
+
     # 获取当天时间，精确到秒（2019-03-19 00:00:00）
     def gettodaytime(self):
         day = str(self.getNowTime()) +" " + "00:00:00"
         return day
+
+    # 获取今天往后推3天的日期数字
+    def getaftertoday3time(self):
+        today = datetime.date.today()
+        day = today.day
+        afterday = day  +3
+        return afterday
 
     # sha256加密
     @staticmethod
@@ -92,22 +101,24 @@ class Expandfunction:
 
 if __name__ == '__main__':
     e = Expandfunction()
-    t = e.get_today_Timestamp()
-    print(t)
-    g = e.getNowTime("%Y-%m-%d")
-    print(g)
-    w = e.getNowTime("%Y-%m")
-    print(w)
-    l = e.getLastMonthTime()
-    print(l)
-    d = e.get_today()
-    print(d)
-    y = e.get_yestoday()
-    print(y)
-    last = datetime.date(datetime.date.today().year, datetime.date.today().month, 1) - datetime.timedelta(1)
-    print(last)
-    k = e.gettodaytime()
-    print(k)
+    # t = e.get_today_Timestamp()
+    # print(t)
+    # g = e.getNowTime("%Y-%m-%d")
+    # print(g)
+    # w = e.getNowTime("%Y-%m")
+    # print(w)
+    # l = e.getLastMonthTime()
+    # print(l)
+    # d = e.get_today()
+    # print(d)
+    # y = e.get_yestoday()
+    # print(y)
+    # last = datetime.date(datetime.date.today().year, datetime.date.today().month, 1) - datetime.timedelta(1)
+    # print(last)
+    # k = e.gettodaytime()
+    # print(k)
+    a = e.getaftertoday3time()
+    print(a)
 
 
 
