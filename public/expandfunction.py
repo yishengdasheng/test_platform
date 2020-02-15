@@ -79,6 +79,13 @@ class Expandfunction:
         day = str(self.getNowTime()) +" " + "00:00:00"
         return day
 
+    # 获取今天往后推day(变量)天的日期数字（2019-03-19）
+    def getafterday(self,day):
+        today = datetime.date.today()
+        thatday = today + datetime.timedelta(days=day)
+        return thatday
+
+
     # 获取今天往后推3天的日期数字
     def getaftertoday3time(self):
         today = datetime.date.today()
@@ -103,8 +110,8 @@ if __name__ == '__main__':
     e = Expandfunction()
     # t = e.get_today_Timestamp()
     # print(t)
-    # g = e.getNowTime("%Y-%m-%d")
-    # print(g)
+    g = e.getNowTime("%Y-%m-%d")
+    print(type(g))
     # w = e.getNowTime("%Y-%m")
     # print(w)
     # l = e.getLastMonthTime()
@@ -117,8 +124,10 @@ if __name__ == '__main__':
     # print(last)
     # k = e.gettodaytime()
     # print(k)
-    a = e.getaftertoday3time()
-    print(a)
+    # a = e.getaftertoday3time()
+    # print(a)
+    b = e.getafterday()
+    print(b)
 
 
 
