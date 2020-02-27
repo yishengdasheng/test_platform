@@ -812,7 +812,7 @@ class _TestResult(TestResult):
     # note: _TestResult is a pure representation of results.
     # It lacks the output and reporting ability compares to unittest._TextTestResult.
 
-    def __init__(self, verbosity=1):
+    def __init__(self, verbosity=2):
         TestResult.__init__(self)
         self.stdout0 = None
         self.stderr0 = None
@@ -903,7 +903,7 @@ class HTMLTestRunner(Template_mixin):
     """
     """
 
-    def __init__(self, stream=sys.stdout, verbosity=1, title=None, description=None):
+    def __init__(self, stream=sys.stdout, verbosity=2, title=None, description=None):
         self.stream = stream
         self.verbosity = verbosity
         if title is None:
