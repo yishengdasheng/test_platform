@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f198f29-acf0-4c80-ba33-87463998389b" name="Default" comment="增加函数">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/requestnew.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/requestnew.iml" afterDir="false" />
+    <list default="true" id="9f198f29-acf0-4c80-ba33-87463998389b" name="Default" comment="修改了verbosity的值">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/ExtentHTMLTestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/ExtentHTMLTestRunner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/HTMLTestRunner.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/HTMLTestRunner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/email.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/expandfunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/expandfunction.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +30,7 @@
     <SUITE FILE_PATH="coverage/requestnew$request.coverage" NAME="request Coverage Results" MODIFIED="1541321022508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
     <SUITE FILE_PATH="coverage/requestnew$Unittests_in_postCouponDisplaymentNormalTest_py.coverage" NAME="Unittests in postCouponDisplaymentNormalTest.py Coverage Results" MODIFIED="1539239073998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/first_task/testcase" />
     <SUITE FILE_PATH="coverage/requestnew$Unittests_in_UserLoginInfoAdd_py.coverage" NAME="Unittests in UserLoginInfoAdd.py Coverage Results" MODIFIED="1524886095975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/task/task1/testcase" />
-    <SUITE FILE_PATH="coverage/requestnew$loader.coverage" NAME="loader Coverage Results" MODIFIED="1534055995829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/python36/Lib/unittest" />
+    <SUITE FILE_PATH="coverage/requestnew$loader.coverage" NAME="loader Coverage Results" MODIFIED="1534055995829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../python36/Lib/unittest" />
     <SUITE FILE_PATH="coverage/requestnew$email.coverage" NAME="email Coverage Results" MODIFIED="1539257267810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
     <SUITE FILE_PATH="coverage/requestnew$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1542784397953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/requestnew$views.coverage" NAME="views Coverage Results" MODIFIED="1544444004309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request" />
@@ -42,49 +39,6 @@
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/carryfunction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/expandfunction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="94" selection-start-line="94" selection-end-line="94" />
-              <folding>
-                <element signature="e#45#65#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/HTMLTestRunner.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="721" column="38" lean-forward="true" selection-start-line="721" selection-start-column="38" selection-end-line="721" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/ExtentHTMLTestRunner.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="1292" column="21" lean-forward="true" selection-start-line="1292" selection-start-column="21" selection-end-line="1292" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,121 +49,14 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Step.objects.get</find>
-      <find>test_steps</find>
-      <find>pd</find>
-      <find>i</find>
-      <find>result</find>
-      <find>makeEamilBody</find>
-      <find>无法发送邮件</find>
-      <find>Transferfunction</find>
-      <find>transferfunction</find>
-      <find>transfermongodb</find>
-      <find>testsuite</find>
-      <find>Step.objects.filter</find>
-      <find>request</find>
-      <find>stepcountall</find>
-      <find>transferip_db</find>
-      <find>test_carryid</find>
-      <find>transferlogname</find>
-      <find>Errorlogname</find>
-      <find>data</find>
-      <find>uuid</find>
-      <find>In</find>
-      <find>/task_list</find>
-      <find>CarryTask.objects.create</find>
-      <find>新增</find>
-      <find>Testers</find>
-      <find>#F7464A</find>
-      <find>F7464A</find>
-      <find>项目</find>
-      <find>extent.css</find>
-      <find>extent</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>email</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/public/HTMLTestRunner.py" />
-        <option value="$PROJECT_DIR$/public/ExtentHTMLTestRunner.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2147" />
-    <option name="y" value="103" />
-    <option name="width" value="1299" />
-    <option name="height" value="1042" />
-  </component>
+  <component name="JupyterTrust" id="82fde18f-d846-4223-bf98-e3561080cc7c" />
   <component name="ProjectId" id="1XnFmKtQbia3COPSmxktJ8x1zM8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="requestnew" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="市南30---b1d83eb4-f622-11e9-8f71-4ccc6ad6a079" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="市南30---b1d83eb4-f622-11e9-8f71-4ccc6ad6a079" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -240,18 +87,6 @@
       <recent name="E:\pj\requestnew\templates\main" />
       <recent name="E:\pj\requestnew\templates" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.expandfunction">
     <configuration name="emailBody (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -389,7 +224,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Django server.requestnew" />
+      <item itemvalue="Django Server.requestnew" />
       <item itemvalue="Python.emailBody (1)" />
       <item itemvalue="Python.emailBody" />
       <item itemvalue="Python.expandfunction" />
@@ -406,6 +241,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -426,7 +262,11 @@
       <workItem from="1571832484181" duration="5286000" />
       <workItem from="1581674120199" duration="1697000" />
       <workItem from="1581737372592" duration="2473000" />
-      <workItem from="1582775514140" duration="1045000" />
+      <workItem from="1582775514140" duration="1704000" />
+      <workItem from="1588994561793" duration="553000" />
+      <workItem from="1604305727872" duration="6451000" />
+      <workItem from="1604461889881" duration="1235000" />
+      <workItem from="1604478859964" duration="2086000" />
     </task>
     <task id="LOCAL-00001" summary="2.2.4&#10;1.新增requirements文件&#10;2.支持单用例调试和查看报告&#10;3.任务表修改，将任务名和uuid拆开&#10;4.环境配置里新增https选择&#10;5.邮件能够在里面描述下本次测试是哪个环境，哪些接口，执行情况等概要信息&#10;6.接口页面如果某个值显示超过25个字段，显示25个字段+...,hover可见&#10;7.去除用例页面优先级筛选和删除列表用例文件字段&#10;8.用例页面新增生效中sql和nosql数，点击带参数跳转sql和nosql列表页">
       <created>1563436215573</created>
@@ -477,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581675138711</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修改了verbosity的值">
+      <created>1582782180200</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582782180200</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -512,65 +359,8 @@
       <configuration name="Unittests for PostStoreAreaOwner.PostStoreAreaOwner" configurationId="tests" />
     </history-entry>
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1695000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3033049" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9051173" visible="true" weight="0.2516269" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.39804772" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.8390192" visible="true" weight="0.3286334" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.3286334" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.1609808" side_tool="true" visible="true" weight="0.3286334" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49946696" weight="0.32899022" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32899022" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24786781" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9051173" visible="true" weight="0.330076" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3984799" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.32899022" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.09488273" side_tool="true" visible="true" weight="0.330076" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49946696" weight="0.32899022" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" weight="0.32899022" />
-      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2.2.4&#10;1.新增requirements文件&#10;2.支持单用例调试和查看报告&#10;3.任务表修改，将任务名和uuid拆开&#10;4.环境配置里新增https选择&#10;5.邮件能够在里面描述下本次测试是哪个环境，哪些接口，执行情况等概要信息&#10;6.接口页面如果某个值显示超过25个字段，显示25个字段+...,hover可见&#10;7.去除用例页面优先级筛选和删除列表用例文件字段&#10;8.用例页面新增生效中sql和nosql数，点击带参数跳转sql和nosql列表页" />
@@ -579,41 +369,46 @@
     <MESSAGE value="更新包" />
     <MESSAGE value="前端样式css和js失效，将引入文件本地化" />
     <MESSAGE value="增加函数" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加函数" />
+    <MESSAGE value="修改了verbosity的值" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了verbosity的值" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="487" y="49" key="#expandfunction" timestamp="1581674281233">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1860" height="342" key="GridCell.Tab.0.bottom" timestamp="1604479560279">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="487" y="49" key="#expandfunction/0.0.1536.824@0.0.1536.824" timestamp="1581674281233" />
-    <state x="423" y="11" key="CommitChangelistDialog2" timestamp="1581675144195">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1860" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604479560279" />
+    <state width="1860" height="342" key="GridCell.Tab.0.center" timestamp="1604479560279">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="423" y="11" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581675144195" />
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom" timestamp="1581739763044">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1860" height="342" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604479560279" />
+    <state width="1860" height="342" key="GridCell.Tab.0.left" timestamp="1604479560279">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581739763044" />
-    <state width="1493" height="153" key="GridCell.Tab.0.center" timestamp="1581739763044">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1860" height="342" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604479560279" />
+    <state width="1860" height="342" key="GridCell.Tab.0.right" timestamp="1604479560279">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581739763044" />
-    <state width="1493" height="153" key="GridCell.Tab.0.left" timestamp="1581739763044">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1860" height="342" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604479560279" />
+    <state width="1860" height="342" key="GridCell.Tab.1.bottom" timestamp="1604479560127">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581739763044" />
-    <state width="1493" height="153" key="GridCell.Tab.0.right" timestamp="1581739763044">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1860" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604479560127" />
+    <state width="1860" height="342" key="GridCell.Tab.1.center" timestamp="1604479560127">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581739763044" />
-    <state x="273" y="58" key="SettingsEditor" timestamp="1581674296677">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1860" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604479560127" />
+    <state width="1860" height="342" key="GridCell.Tab.1.left" timestamp="1604479560127">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="273" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581674296677" />
-    <state x="362" y="149" key="Vcs.Push.Dialog.v2" timestamp="1581675856389">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1860" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604479560127" />
+    <state width="1860" height="342" key="GridCell.Tab.1.right" timestamp="1604479560127">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="362" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581675856389" />
+    <state width="1860" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604479560127" />
+    <state x="2582" y="254" width="596" height="536" key="find.popup" timestamp="1604306438898">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2582" y="254" width="596" height="536" key="find.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604306438898" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -627,45 +422,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/test_platform$expandfunction.coverage" NAME="expandfunction Coverage Results" MODIFIED="1581739763036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/carryfunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/request.log">
-      <provider selected="true" editor-type-id="LogFileEditorProvider" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/request/tests.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/expandfunction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="94" selection-start-line="94" selection-end-line="94" />
-          <folding>
-            <element signature="e#45#65#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/ExtentHTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="1292" column="21" lean-forward="true" selection-start-line="1292" selection-start-column="21" selection-end-line="1292" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/HTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="721" column="38" lean-forward="true" selection-start-line="721" selection-start-column="38" selection-end-line="721" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/test_platform$expandfunction.coverage" NAME="expandfunction Coverage Results" MODIFIED="1604479560081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/public" />
   </component>
 </project>

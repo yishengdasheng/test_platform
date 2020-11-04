@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # -*- coding:utf8 -*-
 
-import time,datetime
+import time, datetime
 import hashlib
+
 
 class Expandfunction:
     def __init__(self):
@@ -105,13 +106,20 @@ class Expandfunction:
         hsobj.update(value.encode("utf-8"))
         return hsobj.hexdigest()
 
+    # 获取上个月的月份
+    def last_month(self):
+        today = datetime.datetime.today()
+        month = today.month - 1
+        return month
 
-if __name__ == '__main__':
-    e = Expandfunction()
-    # t = e.get_today_Timestamp()
-    # print(t)
-    g = e.getNowTime("%Y-%m-%d")
-    print(type(g))
+
+
+# if __name__ == '__main__':
+    # e = Expandfunction()
+    # # t = e.get_today_Timestamp()
+    # # print(t)
+    # g = e.getNowTime("%Y-%m-%d")
+    # print(type(g))
     # w = e.getNowTime("%Y-%m")
     # print(w)
     # l = e.getLastMonthTime()
@@ -126,8 +134,7 @@ if __name__ == '__main__':
     # print(k)
     # a = e.getaftertoday3time()
     # print(a)
-    b = e.getafterday()
-    print(b)
+
 
 
 
